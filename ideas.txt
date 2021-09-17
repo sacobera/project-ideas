@@ -8,4 +8,22 @@ Ideas for an App
 6. Bug tester app?
 7. Food tracker
 8. Tinder clone? IG clone?
-9.
+
+
+UPDATE:
+TOP 2:
+
+1. Blog style app where users can post blogs.  
+	MVP:
+	Users can create an account. 
+	Users can log in and out. 
+	Users can post.
+	Users can delete posts.
+	Users can update posts.
+2. App where users can become friends according to their location. 
+	MVP:
+	Users can create an account.
+	Users can log in and out. 
+	Users can send a friend request. 
+	Users can accept a friend request. 
+	
